@@ -1,0 +1,33 @@
+DS Lab : https://meet.google.com/exp-fqes-rpz
+IOT Lab : 
+
+
+Your account number is: 657154
+Host: sql6.freesqldatabase.com
+Database name: sql6522997
+Database user: sql6522997
+Database password: CaxhxnrI8r
+Port number: 3306
+
+
+Python connectivity with MySQL youtube link: https://www.youtube.com/watch?v=f1TRDX-TUdg
+
+BusPass:
+width = 8cm [5cm|3cm]
+height = 6.6cm [0.55cm each box]
+
+
+Train object detection classifier
+https://www.youtube.com/watch?v=36p9To2hfak&t=231s
+https://www.youtube.com/watch?v=q-KIpFIbRMk
+
+
+
+AWS IMP
+https://sanket7467.signin.aws.amazon.com/console
+https://cs.lmu.edu/~ray/notes/pythonnetexamples/ (Python socket)
+https://www.youtube.com/watch?v=Y7OAk7DiLJs
+
+
+
+https://www.youtube.com/watch?v=iIkJrwVUl1c
